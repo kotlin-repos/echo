@@ -296,7 +296,7 @@
     <string name="x_created">%1$s erstellt</string>
     <string name="deleting_x">Löschen von %1$s</string>
     <string name="deleted_x">Gelöscht %1$s</string>
-    <string name="loading_x">%1s wird geladen</string>
+<string name="loading_x">%1$s wird geladen</string>
     <string name="saving_x">Einsparung von %1$s</string>
     <string name="saved_to_x">Gespeichert auf %1$s</string>
     <string name="saved_to_playlists">In Wiedergabelisten gespeichert</string>
